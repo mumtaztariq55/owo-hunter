@@ -1,0 +1,12 @@
+{
+  "name": "anti-owo-bot",
+  "version": "1.0.0",
+  "description": "Kicks OwO bot when it triggers a verification check",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
